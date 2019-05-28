@@ -1,12 +1,12 @@
-![Cloud Study Jam](assets/csj.gif)
+<img src="https://open.sutd.dev/cloud-study-jam/assets/csj.gif" width="100%">
 
-# Google Cloud Study Jam @ SUTD
+Google Cloud Study Jams are community-run study groups for developers communities.
 
-Google Cloud Study Jams are community-run study groups for developers communities, supported by Google. Student volunteers run Cloud Study Jams periodically in SUTD. 
+Student volunteers run Cloud Study Jams periodically in SUTD. 
 
-## Next up
+# Next up
 
-### 5 July 2019 - GCP Essentials
+## 5 July 2019 - GCP Essentials
 
 | Badge | Quest |
 | ----- | ----- |
@@ -14,7 +14,13 @@ Google Cloud Study Jams are community-run study groups for developers communitie
 
 In this introductory-level quest, you will get hands-on practice with the Google Cloud Platform’s fundamental tools and services. GCP Essentials is the recommended first Quest for the Google Cloud learner—you will come in with little or no prior cloud knowledge, and come out with practical experience that you can apply to your first GCP project.
 
-**More information coming soon!**
+Venue: [**LT5 (2.505)**](https://sutdmap.appspot.com/?id=PIBX)
+
+Time: **2pm to 7pm**
+
+Date: **5th July 2019**
+
+[**Sign-up Now (Login with your SUTD Microsoft Account)**](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPTpJx5vRVY5AqrPkE_loV1NUNVZXMFAwWjU3RTI3NzlUNkZDVkI0REVKUy4u)
 
 ## Previous Sessions
 
