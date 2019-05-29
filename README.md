@@ -20,6 +20,8 @@ Date: **5th July 2019**
 
 [**Sign-up Now (Login with your SUTD Microsoft Account)**](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPTpJx5vRVY5AqrPkE_loV1NUNVZXMFAwWjU3RTI3NzlUNkZDVkI0REVKUy4u)
 
+<hr>
+
 ## Previous Sessions
 
 ### 15 March 2019 - AI on GCP
