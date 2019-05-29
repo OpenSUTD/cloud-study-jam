@@ -24,9 +24,9 @@ Date: **5th July 2019**
 
 <hr>
 
-## Previous Sessions
+# Previous Sessions
 
-### 15 March 2019 - AI on GCP
+## 15 March 2019 - AI on GCP
 
 | Badge | Quest | Completion Rate |
 | ----- | ----- | --------------- |
