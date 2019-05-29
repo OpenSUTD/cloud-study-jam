@@ -1,8 +1,6 @@
 <img src="https://open.sutd.dev/cloud-study-jam/assets/csj.gif" width="100%">
 
-Google Cloud Study Jams are community-run study groups for developer communities.
-
-Student volunteers run Cloud Study Jams periodically in SUTD. 
+Google Cloud Study Jams are community-run study groups for developer communities. Student volunteers run Cloud Study Jams periodically in SUTD. This website will be updated with information about the next upcoming Cloud Study Jam, as well as some information about the previous ones so you can see what went on!
 
 # Next up
 

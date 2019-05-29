@@ -1,7 +1,7 @@
 remote_theme: jekyll/minima
 
-title: Google Cloud Study Jam @ SUTD
-author: OpenSUTD
+title: Cloud Study Jam @ SUTD
+author: OpenSUTD and Google Cloud
 email: timothy_liu@mymail.sutd.edu.sg
 description: > # this means to ignore newlines until "show_exerpts:"
   Google Cloud Study Jams are community-run study groups for developers communities, supported by Google. Student volunteers run Cloud Study Jams periodically in SUTD.
