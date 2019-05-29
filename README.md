@@ -10,7 +10,12 @@ Google Cloud Study Jams are community-run study groups for developer communities
 | ----- | ----- |
 | <img src="https://open.sutd.dev/cloud-study-jam/assets/essentials.png" width="150px"> | [GCP Essentials](https://google.qwiklabs.com/quests/23) |
 
-In this introductory-level quest, you will get hands-on practice with the Google Cloud Platform’s fundamental tools and services. GCP Essentials is the recommended first Quest for the Google Cloud learner—you will come in with little or no prior cloud knowledge, and come out with practical experience that you can apply to your first GCP project.
+In this introductory-level quest, you will get hands-on practice with the Google Cloud Platform’s fundamental tools and services. GCP Essentials is the recommended first Quest for the Google Cloud learner—you will come in with little or no prior cloud knowledge, and come out with practical experience that you can apply to your first GCP project:
+
+* Google Cloud Platform Console
+* Google Compute Engine
+* Google Kubernetes Engine
+* Network and Load Balancers
 
 **All participants are expected to complete the quest.**
 
