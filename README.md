@@ -33,13 +33,11 @@ Date: **5th July 2019**
 
 ## 15 March 2019 - AI on GCP
 
-| Badge | Quest | Completion Rate |
-| ----- | ----- | --------------- |
-| <img src="https://open.sutd.dev/cloud-study-jam/assets/aiml.png" width="150px"> | [Baseline: Data, ML, AI](https://run.qwiklabs.com/quests/34) | <img src="https://open.sutd.dev/cloud-study-jam/assets/completion_150319.gif" width="50%"> |
-
 A half-day workshop intended to introduce students to using Google Cloud Platform (GCP) tools for data and machine-learning related tasks, and is open to all members of the SUTD community.
 
-| Photos |       |
-| ------ | ----- |
+| Badge | Quest |
+| ----- | ----- |
+| <img src="https://open.sutd.dev/cloud-study-jam/assets/aiml.png" width="150px"> | [Baseline: Data, ML, AI](https://run.qwiklabs.com/quests/34) |
 | ![Cloud Study Jam Photo](photos/sutd_csj_150319_01.jpg) | ![Cloud Study Jam Photo](photos/sutd_csj_150319_02.jpg) |
+| ![Cloud Study Jam Photo](photos/sutd_csj_150319_03.jpg) | <img src="https://open.sutd.dev/cloud-study-jam/assets/completion_150319.gif" width="100%"> |
 
