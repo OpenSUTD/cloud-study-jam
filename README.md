@@ -35,7 +35,7 @@ Date: **5th July 2019**
 
 | Badge | Quest |
 | ----- | ----- |
-| <img src="https://open.sutd.dev/cloud-study-jam/assets/aiml.png" width="150px"> | Quest: [Baseline: Data, ML, AI](https://run.qwiklabs.com/quests/34) |
+| <img src="https://open.sutd.dev/cloud-study-jam/assets/aiml.png" width="150px"> | [Baseline: Data, ML, AI](https://run.qwiklabs.com/quests/34) |
 
 A half-day workshop intended to introduce students to using Google Cloud Platform (GCP) tools for data and machine-learning related tasks, and is open to all members of the SUTD community.
 
