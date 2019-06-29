@@ -17,7 +17,7 @@ In this introductory-level quest, you will get hands-on practice with the Google
 * Google Kubernetes Engine
 * Network and Load Balancers
 
-**All participants are expected to complete the quest.**
+During the workshop, we will be providing you with a promo code that gives you one month free access to all the labs on QwikLabs. **All participants are expected to complete the GCP Essentials quest on QwikLabs within two weeks after the workshop.**
 
 Venue: [**LT5 (2.505)**](https://sutdmap.appspot.com/?id=PIBX)
 
