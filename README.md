@@ -19,13 +19,13 @@ In this introductory-level quest, you will get hands-on practice with the Google
 
 During the workshop, we will be providing you with a promo code that gives you one month free access to all the labs on QwikLabs. **All participants are expected to complete the GCP Essentials quest on QwikLabs within two weeks after the workshop.**
 
-Venue: TBC
+Venue: **LT4 (Building 2, Level 4)** ([map](https://sutdmap.appspot.com/?id=faaz))
 
-Time: TBC
+Time: **2pm to 6pm**
 
 Date: **1st November 2019**
 
-TBC
+Register at [http://bit.ly/csj_nov19](http://bit.ly/csj_nov19)
 
 # Previous Sessions
 
